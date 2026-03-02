@@ -11,8 +11,14 @@ Small personal playground for experimenting with fuzzing Kotlin compiler
 ## How to run
 
 ```bash
-python3 src/fuzzer.py
+python3 src/main.py --iterations 200
 ```
+
+## CLI options
+
+- `--iterations` — number of fuzzing iterations
+- `--kotlinc` — Kotlin compiler executable or path
+- `--output-dir` — directory for saved crash cases
 
 ## Requirements
 
