@@ -1,6 +1,9 @@
 # Kotlin IR Fuzz Playground
 
-Small personal playground for experimenting with fuzzing the Kotlin compiler.
+## Why I built this
+
+I wanted to experiment with compiler fuzzing in a small and simple project.
+This playground generates random Kotlin programs, compiles them with `kotlinc`, and saves interesting crash cases for later analysis
 
 ## What it does
 
