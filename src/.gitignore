@@ -1,0 +1,13 @@
+# IDE
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Generated crash files
+crashes/*.kt
+crashes/*.log
+src/crashes/*.kt
+src/crashes/*.log
