@@ -1,6 +1,6 @@
 # Kotlin IR Fuzz Playground
 
-Small personal playground for experimenting with fuzzing Kotlin compiler
+Small personal playground for experimenting with fuzzing the Kotlin compiler
 
 ## What it does
 
